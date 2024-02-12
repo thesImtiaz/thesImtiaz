@@ -24,3 +24,6 @@
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
 ![VSCodeBadge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
 ![GitBadge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Profile Overview
+![Imtiaz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thesImtiaz&theme=radical&hide_border=true)
