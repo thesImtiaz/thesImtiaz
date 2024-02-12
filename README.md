@@ -27,3 +27,8 @@
 
 ### Profile Overview
 ![Imtiaz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thesImtiaz&theme=radical&hide_border=true)
+
+### Where to find me
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thesimtiaz/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thesimtiaz)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/thesImtiaz)
